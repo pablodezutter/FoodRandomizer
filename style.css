@@ -1,0 +1,25 @@
+body{
+margin: 0 auto;
+}
+
+.container{
+    background-image: url(/assets/images/cactus-cutlery-dining-1907642.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+form{
+margin: 10px;
+
+}
+
+
+p{
+margin: 10px;
+font-size: 20px;
+
+}
+
+li{
+    color: rgb(26, 25, 25);
+}
